@@ -20,7 +20,7 @@ https://github.com/AI-Attendance/Project-Overview/assets/51399509/699531f1-18e5-
 
 ### Description
 
-https://github.com/AI-Attendance/Project-Overview/assets/51399509/98bb6bc7-8617-4402-91ca-77d526515bd1
+https://github.com/AI-Attendance/Project-Overview/assets/51399509/1d984fb4-5dc3-48f5-b4d5-d124d5248a5b
 
 ## 4- Web app
 
