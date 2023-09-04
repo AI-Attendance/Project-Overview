@@ -26,4 +26,5 @@ https://github.com/AI-Attendance/Project-Overview/assets/51399509/1d984fb4-5dc3-
 
 ### Description
 
-https://github.com/AI-Attendance/Project-Overview/assets/51399509/5f7cce34-b03a-4690-bf4b-f7fc98d5ce43
+https://github.com/AI-Attendance/Project-Overview/assets/102368041/ec78cc9d-746a-4df3-97a3-078cce8e5858
+
