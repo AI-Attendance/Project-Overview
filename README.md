@@ -5,28 +5,38 @@
 
 The project aims to develop a smart attendance system that uses AI technology to recognize faces, and integrates a database, a mobile app, and a web app.
 
-## 1- Camera: 
+## AI Camera
 
-### Description
-
-multiple people walk in and get identified where one of them is unknown, check the web app for registered records
+* A camera is used to collect frames for employees entering the company at the start of their work day.
+* Each frame is processed through detection then recognition to identify the employees.
+* Each employee is then registered into the database with their time of attendance.
+* Lastly, the attendance log can be verified from the web application at either the employee profile or the admin profile.
 
 https://github.com/AI-Attendance/Project-Overview/assets/51399509/7536ffb6-8632-4940-9c87-c84001587ac8
 
-## 2- Be at your desk
+## Be at your desk
 
-### Description
+* Each employee has a desk to work on with his computer powered on through their work hours.
+* A webcam is attached to his computer and a service is run through the work hours to collect the hourly absence times of employees.
+* The webcam takes photos at random timepoints to verify the existence of the employee.
+* These photos are sent to an AI server that uses AI modules to verify the employee's existence in the image.
+* When the employee leaves his desk, the webcam registers him as absent after some allowance time.
+* When he returns back, the webcam registers that too.
+* Lastly, all of this log is available through the web application to the admin.
 
 https://github.com/AI-Attendance/Project-Overview/assets/51399509/88df649b-0fe9-40a7-b2f1-b6a52d541405
 
-## 3- Mobile app
+## Mobile app
 
-### Description
+* Some employees are allowed to register their attendance through a mobile application provided that they register themselves at specific locations determined by the admin.
+* The employee can register his attendance or leave at the allowed times and within a certain distance of the location registered for them.
+* When he takes a selfie, the photo is sent to the AI server to verify that the id used in the app is the exact one that is linked to the employee in the image. The location and times are validated as well.
+* Finally, the attendance can be viewed from the employee's page or the admin's logs in the web application.
 
 https://github.com/AI-Attendance/Project-Overview/assets/51399509/03bde6ae-ac12-4b93-b3e9-8710fc0520ec
 
-## 4- Web app
+## Web app
 
-### Description
+* 
 
 https://github.com/AI-Attendance/Project-Overview/assets/102368041/d5b27633-7f86-4f86-b46f-12e9bb753b9b
