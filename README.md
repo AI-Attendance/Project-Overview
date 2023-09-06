@@ -37,4 +37,13 @@ https://github.com/AI-Attendance/Project-Overview/assets/51399509/03bde6ae-ac12-
 
 ## Web App
 
+* The admin can register a new user of the application by entering their information such as national ID, name, job, email, phone number, picture of the user and whether the user is an admin.
+* The user can then log in to their new account and see their attendance status for today and previous days.
+* The web app also has some configuration options such as the exact time for attendance and leaving and some other settings to adjust the program as needed.
+* In attendance logging, you can search for a specific day, time, employer or employee.
+* It also provides the closest candidate in case the program makes a wrong identification and it shows the taken picture that the identification is based on.
+* You can also edit user information in case some details about a specific user need to be updated such as job position, email, phone number or picture.
+* Location can be added or modified in case of remote employees that can be used in the mobile app.
+* Also, you can see in the Not at desk feature when each employee has left or returned to their desk.
+
 https://github.com/AI-Attendance/Project-Overview/assets/102368041/d5b27633-7f86-4f86-b46f-12e9bb753b9b
