@@ -37,6 +37,4 @@ https://github.com/AI-Attendance/Project-Overview/assets/51399509/03bde6ae-ac12-
 
 ## Web app
 
-* 
-
 https://github.com/AI-Attendance/Project-Overview/assets/102368041/d5b27633-7f86-4f86-b46f-12e9bb753b9b
