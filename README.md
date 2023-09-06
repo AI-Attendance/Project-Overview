@@ -14,7 +14,7 @@ The project aims to develop a smart attendance system that uses AI technology to
 
 https://github.com/AI-Attendance/Project-Overview/assets/51399509/7536ffb6-8632-4940-9c87-c84001587ac8
 
-## Be at your desk
+## Be at your Desk
 
 * Each employee has a desk to work on with his computer powered on through their work hours.
 * A webcam is attached to his computer and a service is run through the work hours to collect the hourly absence times of employees.
@@ -26,7 +26,7 @@ https://github.com/AI-Attendance/Project-Overview/assets/51399509/7536ffb6-8632-
 
 https://github.com/AI-Attendance/Project-Overview/assets/51399509/88df649b-0fe9-40a7-b2f1-b6a52d541405
 
-## Mobile app
+## Mobile App
 
 * Some employees are allowed to register their attendance through a mobile application provided that they register themselves at specific locations determined by the admin.
 * The employee can register his attendance or leave at the allowed times and within a certain distance of the location registered for them.
@@ -35,6 +35,6 @@ https://github.com/AI-Attendance/Project-Overview/assets/51399509/88df649b-0fe9-
 
 https://github.com/AI-Attendance/Project-Overview/assets/51399509/03bde6ae-ac12-4b93-b3e9-8710fc0520ec
 
-## Web app
+## Web App
 
 https://github.com/AI-Attendance/Project-Overview/assets/102368041/d5b27633-7f86-4f86-b46f-12e9bb753b9b
