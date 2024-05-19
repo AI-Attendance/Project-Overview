@@ -25,3 +25,7 @@ We use C++ with OpenCV for the computer vision components.
 # Server
 
 The server manages communication between the AI Core, web app, mobile app, and database. We use Protocol Buffers for communication between the server and these components. The server is written in C++ and interacts with the database using nanodbc.
+
+## Database Size
+
+We have about 115 person, each has single image and few have multiple images (up to 3 images)
